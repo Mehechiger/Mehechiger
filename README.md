@@ -71,7 +71,7 @@ Advanced neural architectures for semantic analysis optimized for low-resource e
 
 [![](https://raw.githubusercontent.com/Mehechiger/Mehechiger/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Mehechiger/Mehechiger/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Mehechiger/Mehechiger/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=monokai)](https://git.io/streak-stats)
+
 ---
 
 ## 💡 Current Focus
